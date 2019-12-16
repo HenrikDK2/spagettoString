@@ -1,0 +1,25 @@
+{
+  "name": "@henrikdk/spagettostring",
+  "version": "0.0.0",
+  "description": "A package for string related functions!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenrikDK2/spagettoString.git"
+  },
+  "keywords": [
+    "spagettoString",
+    "NPM",
+    "string",
+    "HenrikDK"
+  ],
+  "author": "Henrik Mundt Milo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HenrikDK2/spagettoString/issues"
+  },
+  "homepage": "https://github.com/HenrikDK2/spagettoString#readme"
+}
