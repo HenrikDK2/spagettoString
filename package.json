@@ -1,6 +1,6 @@
 {
   "name": "@henrikdk/spagettostring",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A package for string related functions!",
   "main": "index.js",
   "scripts": {
