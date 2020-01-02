@@ -10,13 +10,13 @@ npm i @henrikdk/spagettostring
 ```javascript
 const spagettoString = require('@henrikdk/spagettoString');
 
-console.log(spagettoString.strReverse('Hej'));
+spagettoString.strReverse('Hej');
 //Output: "jeH"
 
-console.log(spagettoString.strSort('Strawberries Raspberries Apple Blueberries Kiwifruit Passionfruit', "asc"));
+spagettoString.strSort('Strawberries Raspberries Apple Blueberries Kiwifruit Passionfruit', "asc");
 //Output: "Apple Blueberries Kiwifruit Passionfruit Raspberries Strawberries"
 
-console.log(spagettoString.strCompare('this apple is an beautifull apple', "apple"));
+spagettoString.strCompare('this apple is an beautifull apple', "apple");
 //Output: "2"
 ```
 
