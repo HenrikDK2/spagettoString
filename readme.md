@@ -1,4 +1,5 @@
 # spagettoString
+Is a small package that revovles around modifying, check and create complicated strings for ease of actions.
 
 ## How to install
 ```bash
@@ -20,6 +21,6 @@ console.log(spagettoString.strCompare('this apple is an beautifull apple', "appl
 ```
 
 ## Functions
-### strReverse - reverse the string.
-### strSort - Sort string by ascending or descending.
-### strCompare - Find how many instances of a word exist in a string.
+- strReverse - Reverse the string.
+- strSort - Sort string by ascending or descending.
+- strCompare - Find how many instances of a word exist in a string.
